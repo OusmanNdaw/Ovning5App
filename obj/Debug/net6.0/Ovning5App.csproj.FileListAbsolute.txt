@@ -1,0 +1,15 @@
+C:\compile_run\csharp\Ovning4App\Ovning5App\bin\Debug\net6.0\Ovning5App.exe
+C:\compile_run\csharp\Ovning4App\Ovning5App\bin\Debug\net6.0\Ovning5App.deps.json
+C:\compile_run\csharp\Ovning4App\Ovning5App\bin\Debug\net6.0\Ovning5App.runtimeconfig.json
+C:\compile_run\csharp\Ovning4App\Ovning5App\bin\Debug\net6.0\Ovning5App.dll
+C:\compile_run\csharp\Ovning4App\Ovning5App\bin\Debug\net6.0\Ovning5App.pdb
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\Ovning5App.csproj.AssemblyReference.cache
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\Ovning5App.GeneratedMSBuildEditorConfig.editorconfig
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\Ovning5App.AssemblyInfoInputs.cache
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\Ovning5App.AssemblyInfo.cs
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\Ovning5App.csproj.CoreCompileInputs.cache
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\Ovning5App.dll
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\refint\Ovning5App.dll
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\Ovning5App.pdb
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\Ovning5App.genruntimeconfig.cache
+C:\compile_run\csharp\Ovning4App\Ovning5App\obj\Debug\net6.0\ref\Ovning5App.dll
